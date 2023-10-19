@@ -274,4 +274,19 @@
 
 
 
+
+    .button1:hover{
+        border-radius: 8px;
+        background: #162542;
+        color: white;
+    } 
+
+    
+
+    .button2:hover{
+        border-radius: 8px;
+        background: #FF9B62;
+    }
+
+
 }
